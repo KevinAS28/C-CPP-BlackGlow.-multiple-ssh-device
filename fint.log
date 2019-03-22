@@ -1,0 +1,41 @@
+Log file for fint program
+Start at Wed Sep 26 17:48:37 2018 
+Mode = d 
+target directory = /root/programming/Big_Projects/BlackGlow 
+Sentence to find = readFile(int file) 
+scanning /root/programming/Big_Projects/BlackGlow/aes.hpp
+scanning /root/programming/Big_Projects/BlackGlow/glower.h
+scanning /root/programming/Big_Projects/BlackGlow/univlib.h
+scanning /root/programming/Big_Projects/BlackGlow/run.command
+scanning /root/programming/Big_Projects/BlackGlow/aes.c
+scanning /root/programming/Big_Projects/BlackGlow/BlackGlow.cpp
+scanning /root/programming/Big_Projects/BlackGlow/fdfile.h
+scanning /root/programming/Big_Projects/BlackGlow/BlackGlow.h
+scanning /root/programming/Big_Projects/BlackGlow/output.o
+error while scanning /root/programming/Big_Projects/BlackGlow/output.o
+scanning /root/programming/Big_Projects/BlackGlow/testsql.o
+error while scanning /root/programming/Big_Projects/BlackGlow/testsql.o
+scanning /root/programming/Big_Projects/BlackGlow/temp.cpp
+scanning /root/programming/Big_Projects/BlackGlow/blackglow.conf
+scanning /root/programming/Big_Projects/BlackGlow/aes.h
+scanning /root/programming/Big_Projects/BlackGlow/blackglow
+error while scanning /root/programming/Big_Projects/BlackGlow/blackglow
+scanning /root/programming/Big_Projects/BlackGlow/mysqldb.hpp
+scanning /root/programming/Big_Projects/BlackGlow/Spark0.cpp
+scanning /root/programming/Big_Projects/BlackGlow/fint.log
+scanning /root/programming/Big_Projects/BlackGlow/test
+error while scanning /root/programming/Big_Projects/BlackGlow/test
+scanning /root/programming/Big_Projects/BlackGlow/conf_read.h
+scanning /root/programming/Big_Projects/BlackGlow/spark0
+error while scanning /root/programming/Big_Projects/BlackGlow/spark0
+scanning /root/programming/Big_Projects/BlackGlow/Network.h
+scanning /root/programming/Big_Projects/BlackGlow/test.cpp
+scanning /root/programming/Big_Projects/BlackGlow/testsql.oo
+error while scanning /root/programming/Big_Projects/BlackGlow/testsql.oo
+scanning /root/programming/Big_Projects/BlackGlow/a.out
+error while scanning /root/programming/Big_Projects/BlackGlow/a.out
+scanning /root/programming/Big_Projects/BlackGlow/spark0.conf
+result:(finish)
+/root/programming/Big_Projects/BlackGlow/fdfile.h
+/root/programming/Big_Projects/BlackGlow/fint.log
+end at Wed Sep 26 17:48:37 2018
